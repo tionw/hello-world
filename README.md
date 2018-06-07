@@ -1,2 +1,9 @@
 # hello-world
-nothing to see here
+
+hello friends
+
+this is my first time using github.
+
+please be nice.
+
+thank you
